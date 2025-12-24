@@ -4,10 +4,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web development projects using MERN Stack, focusing on scalable backend APIs and responsive user interfaces.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, hackathons, and real-world applications related to Web Development, Backend Systems, and AI-based solutions.<br><br>🤝 I’m looking for help with<br>Advanced system design concepts, backend optimization, and deployment best practices.<br><br>🌱 I’m currently learning<br>Advanced React, Node.js, MongoDB, REST APIs, and improving my Data Structures & Algorithms skills.<br><br>💬 Ask me about<br>MERN Stack, Python, OpenCV projects, API development, problem-solving, and hackathon planning.<br><br>⚡ Fun fact<br>I enjoy turning real-world problems into working software and have organized national-level hackathons 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shiven-pandit-915561258/) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShivenPandit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShivenPandit&theme=dark&hide_border=true)<br/>
