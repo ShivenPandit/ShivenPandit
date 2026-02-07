@@ -3,16 +3,3 @@
 
 # 💫 About Me:
 🔭 Currently Working On<br>Full-stack projects using MERN & PERN stacks, building scalable backend APIs and responsive UIs.<br><br>👯 Open to Collaborate On<br>Open-source projects, hackathons, and real-world solutions in Web, Backend, and AI.<br><br>🤝 Looking for Help With<br>Advanced system design, backend optimization, and deployment best practices.<br><br>🌱 Currently Learning<br>Advanced React, Node.js, MongoDB, REST APIs, and DSA.<br><br>💬 Ask Me About<br>MERN Stack, Python, OpenCV, API development, and hackathon planning.<br><br>⚡ Fun Fact<br>I love turning real-world problems into software—and I’ve organized national-level hackathons 🚀
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivenPandit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShivenPandit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivenPandit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ShivenPandit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
